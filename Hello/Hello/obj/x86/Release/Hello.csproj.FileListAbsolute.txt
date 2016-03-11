@@ -1,0 +1,4 @@
+C:\Users\filewizard.OB10BG\Desktop\primer.aula.bg\Hello\Hello\bin\Release\Hello.exe
+C:\Users\filewizard.OB10BG\Desktop\primer.aula.bg\Hello\Hello\bin\Release\Hello.pdb
+C:\Users\filewizard.OB10BG\Desktop\primer.aula.bg\Hello\Hello\obj\x86\Release\Hello.exe
+C:\Users\filewizard.OB10BG\Desktop\primer.aula.bg\Hello\Hello\obj\x86\Release\Hello.pdb
