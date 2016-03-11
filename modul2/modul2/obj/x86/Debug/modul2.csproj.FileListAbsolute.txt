@@ -1,0 +1,4 @@
+C:\Users\filewizard.OB10BG\Desktop\primer.aula.bg\modul2\modul2\bin\Debug\modul2.exe
+C:\Users\filewizard.OB10BG\Desktop\primer.aula.bg\modul2\modul2\bin\Debug\modul2.pdb
+C:\Users\filewizard.OB10BG\Desktop\primer.aula.bg\modul2\modul2\obj\x86\Debug\modul2.exe
+C:\Users\filewizard.OB10BG\Desktop\primer.aula.bg\modul2\modul2\obj\x86\Debug\modul2.pdb
